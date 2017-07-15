@@ -1,7 +1,7 @@
-¾­¼ÍÈË
+ç»çºªäºº
 agent_info
 
-Ë³·áÒµÎñÏßÉÏ»¯
+é¡ºä¸°ä¸šåŠ¡çº¿ä¸ŠåŒ–
 air_available_cabin
 air_available_cabin2
 air_booking_error
@@ -15,7 +15,7 @@ air_tl_audit_opre
 air_tl_task_oper
 air_tt_task
 
-»ù´¡Êı¾İ±í
+åŸºç¡€æ•°æ®è¡¨
 airline_2_fw
 airport_in_service
 area_info
@@ -24,7 +24,7 @@ bs_aircrft_type
 bs_airline_info
 bs_airport_goodsstation
 bs_airport_info
-bs_employee_info   £¿
+bs_employee_info   ï¼Ÿ
 bs_expense_item
 bs_flight_schedule
 bs_route_outconfig
@@ -34,18 +34,18 @@ data_dictionary
 function
 job_locked
 
-app»ù´¡¹¦ÄÜ±í
+appåŸºç¡€åŠŸèƒ½è¡¨
 app_notice_message
 app_push_message
 app_user_login_log
 app_user_push_reg
 app_version_record
 
-¶©²Õ
+è®¢èˆ±
 booking_access
 booking_space
 
-²ÖÎ»ÔËÁ¦
+ä»“ä½è¿åŠ›
 cabin_capacity
 cabin_deploy
 cabin_stern
@@ -53,7 +53,7 @@ stern_bid_info
 t_goods_invoice_info
 t_publish_goods
 
-¶©µ¥Ïà¹Ø
+è®¢å•ç›¸å…³
 cabin_price_snapshot
 
 
@@ -70,7 +70,7 @@ cms_link
 cms_link_class
 cms_site
 
-Í¶ËßÏà¹Ø
+æŠ•è¯‰ç›¸å…³
 cs_claimant_handle_record
 cs_claimant_info
 cs_complain_appraisement
@@ -94,16 +94,16 @@ cs_return_handle_record
 cs_return_info
 cs_schedule_info
 
-ÂäµØÅä
+è½åœ°é…
 delivery_appointment
 delivery_order
 delivery_task
 delivery_vehicle_type
 
-ÓÃ»§/¹©Ó¦ÉÌ
+ç”¨æˆ·/ä¾›åº”å•†
 eo_member
 
-²ÆÎñÏà¹Ø
+è´¢åŠ¡ç›¸å…³
 ef_assess
 ef_batch_number_rule
 ef_bill_cycle
@@ -157,14 +157,14 @@ es_datasource
 es_datasource_res
 es_email
 
-º½°àÏà¹Ø
+èˆªç­ç›¸å…³
 flight_deduction_record
 flight_efficient_airport
 flight_status_info
 flight_time_info
 flight_time_season
 
-»õ´ú/»õÕ¾·ÑÓÃ
+è´§ä»£/è´§ç«™è´¹ç”¨
 freight_agent_cost
 goods_station_cost
 
@@ -288,7 +288,7 @@ t_order_blacklist_rel
 
 t_user_blacklist
 
-airÍ¬²½¹ıÀ´µÄÁÙÊ±±í
+airåŒæ­¥è¿‡æ¥çš„ä¸´æ—¶è¡¨
 tl_air_avaiable_cabin
 tl_air_cabin_cargo_type
 tl_air_carr_op_log
@@ -332,7 +332,7 @@ user_system
 
 verify_code
 
-Î¢ĞÅÏà¹Ø
+å¾®ä¿¡ç›¸å…³
 wx_config
 wx_mass
 wx_mass_news
